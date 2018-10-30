@@ -5,9 +5,7 @@
             "user_id": 1,
             "name": "Mazda 22",
             "kmperliter": 18.5,
-            "fuelcapacity": 43,
-            "created_at": "2018-10-25 14:47:22",
-            "updated_at": "2018-10-25 14:47:22"
+            "fuelcapacity": 43
         }
     ],
     "entries": [
@@ -19,9 +17,7 @@
             "refueldate": "2018-10-21",
             "milageinmeters": 800000,
             "priceincents": 1111,
-            "centiliters": 4202,
-            "created_at": "2018-10-21 18:29:39",
-            "updated_at": null
+            "centiliters": 4202
         },
         {
             "id": 2,
@@ -31,18 +27,14 @@
             "refueldate": "2018-10-25",
             "milageinmeters": 800000,
             "priceincents": 1111,
-            "centiliters": 4202,
-            "created_at": "2018-10-25 12:58:42",
-            "updated_at": null
+            "centiliters": 4202
         }        
     ],
     "users": [
         {
             "id": 1,
             "name": "Hendrik Kleist",
-            "email": "hk@webappudvikling.dk",            
-            "created_at": "2018-10-21 18:27:19",
-            "updated_at": "2018-10-21 18:27:19"
+            "email": "hk@webappudvikling.dk"
         }
     ],
     "profile": {
